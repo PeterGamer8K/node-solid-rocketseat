@@ -1,0 +1,1 @@
+The entities folder is one folder to define all the models / entities in the database

@@ -1,0 +1,1 @@
+Classes to connect the application functionalities to the database, or the structure to store data
